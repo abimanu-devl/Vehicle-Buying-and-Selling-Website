@@ -1,0 +1,158 @@
+@charset "ISO-8859-1";
+.home{
+background-image:url("images/Top.jpg");
+background-size:cover;
+	background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:center;
+}
+#logo{
+	height:150px;
+	width:150px;
+	float:left;
+
+}
+.our{
+	height:400px;
+	background-color:white;
+	padding-top: 10px;
+	border-radius: 25px;
+	color:solid black;
+	font-family: fantasy;
+	  opacity: 0.8;
+
+}
+#i1{
+	height: :150px;
+	width: 150px;
+		float:left;
+}
+#i2{
+	height: :100px;
+	width: 150px;
+	margin-left: 50px;
+		float:left;
+}
+#i3{
+	height: :100px;
+	width: 150px;
+	margin-left: 100px;
+		float:left;
+}
+.images{
+	padding-left: 450px;
+  overflow: hidden;
+}
+.title{
+float: :right;
+ overflow: hidden;
+}
+
+#t1{
+margin-left: 480px;
+
+}
+#t2{
+margin-left: 100px;
+
+}
+
+#value{
+text-align: center;
+}
+
+
+
+ul{
+	top:10px;
+	list-style-type:none;
+	  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+
+}
+#m{
+	font-size:48px;
+	font-family:Impact;
+	text-align:center;
+	
+}
+#head2{
+	color:yellow;
+	
+}
+li{
+	float:left;
+}
+li a{
+	 display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+li a:hover{
+	background-color:grey;
+}
+
+#btnh1{  background-color: #f4511e;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.8;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 600px;
+
+}
+#btnh1:hover {opacity: 1}
+
+#btnh2{  background-color: green;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.8;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 10px;
+
+}
+#btnh2:hover {opacity: 1}
+.btn{
+
+	height: 60px;
+
+}
+
+#btnh3{  background-color: green;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 650px;
+
+}
+#btn-form{
+	float:left;
+}
+.sidebar11{
+	margin-left:600px;
+}

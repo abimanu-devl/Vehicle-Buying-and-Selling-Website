@@ -1,0 +1,83 @@
+@charset "ISO-8859-1";
+
+.set{
+	background-image:url("images/settings.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+}
+
+.settings{
+	width:450px;
+	height:560px;
+	background:#ffffff;
+	border: 1px solid black;
+	color:#000;
+	position:absolute;
+	box-sizing:border-box;
+	padding:25px 20px;
+	margin-left:500px;
+	margin-top:20px;
+	opacity: 0.7;
+}	
+
+.settings td{
+	margin:0;
+	padding:0;
+	font-weight:bold;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+	
+		
+}
+.settings input[type="text"]{
+	width:100%;
+	margin-bottom:20px;
+	border:none;
+	border-bottom:1px solid black;
+	outline:none;
+	height:30px;
+	color:black;
+	font-size:15px;
+	
+}
+.settings input[type="submit"]{
+	width:100%;
+	margin-bottom:20px;
+	border:none;
+	outline:none;
+	height:40px;
+	background:#0000ff;
+	font-size:20px;
+	color:#ffffff;
+	cursor:pointer;
+	opacity: 2;
+}
+.delete{
+	width:410px;
+	height:50px;
+	color:#000;
+	position:absolute;
+	box-sizing:border-box;
+	margin-left:520px;
+	margin-top:520px;
+	opacity: 0.6;
+}
+
+.delete input[type="submit"]{
+	width:100%;
+	margin-bottom:20px;
+	border:none;
+	outline:none;
+	height:40px;
+	background:#ff0000;
+	font-size:20px;
+	color:#ffffff;
+	cursor:pointer;
+	
+}
+.sidebar11{
+	margin-top:600px;
+	margin-left:400px;
+}
